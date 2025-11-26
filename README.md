@@ -1,3 +1,3 @@
 # About the project
 
-EED's assignment.
+Mi remoto p1
